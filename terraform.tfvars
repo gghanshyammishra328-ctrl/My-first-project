@@ -16,4 +16,9 @@ rgname ={
         name ="rgmeeta"
         location ="west us"
     }
+
+rgdev4 ={
+        name ="rgmeet12"
+        location ="west us"
+    }
 }
